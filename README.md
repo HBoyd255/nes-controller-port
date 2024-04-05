@@ -1,5 +1,7 @@
 # NES Controller Port
 
+Harry Boyd - hboyd255@gmail.com - 04/04/2024
+
 This is a KiCad library for the NES Controller port. The part can be found on
 [zedlabz.com](https://www.zedlabz.com/products/controller-connector-port-for-nintendo-nes-console-7-pin-90-degree-replacement-2-pack-black-zedlabz?_pos=8&_sid=b3d25e834&_ss=r).
 
