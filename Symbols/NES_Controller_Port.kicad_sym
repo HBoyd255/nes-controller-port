@@ -54,9 +54,9 @@
 		)
 		(symbol "NES_Controller_Port_0_1"
 			(arc
-				(start -2.54 -3.81)
-				(mid -2.168 -4.708)
-				(end -1.27 -5.08)
+				(start -5.08 -7.62)
+				(mid -4.3361 -9.4161)
+				(end -2.54 -10.16)
 				(stroke
 					(width 0)
 					(type default)
@@ -66,8 +66,8 @@
 				)
 			)
 			(circle
-				(center -1.27 -3.81)
-				(radius 0.889)
+				(center -2.54 -7.62)
+				(radius 1.778)
 				(stroke
 					(width 0)
 					(type default)
@@ -77,8 +77,8 @@
 				)
 			)
 			(circle
-				(center -1.27 -1.27)
-				(radius 0.889)
+				(center -2.54 -2.54)
+				(radius 1.778)
 				(stroke
 					(width 0)
 					(type default)
@@ -88,8 +88,8 @@
 				)
 			)
 			(circle
-				(center -1.27 1.27)
-				(radius 0.889)
+				(center -2.54 2.54)
+				(radius 1.778)
 				(stroke
 					(width 0)
 					(type default)
@@ -99,8 +99,8 @@
 				)
 			)
 			(circle
-				(center -1.27 3.81)
-				(radius 0.889)
+				(center -2.54 7.62)
+				(radius 1.778)
 				(stroke
 					(width 0)
 					(type default)
@@ -110,9 +110,9 @@
 				)
 			)
 			(arc
-				(start -0.3768 4.7115)
-				(mid -1.7579 4.9795)
-				(end -2.54 3.81)
+				(start -0.7536 9.423)
+				(mid -3.5158 9.959)
+				(end -5.08 7.62)
 				(stroke
 					(width 0)
 					(type default)
@@ -123,19 +123,7 @@
 			)
 			(polyline
 				(pts
-					(xy -2.54 3.81) (xy -2.54 -3.81)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -1.27 -5.08) (xy 1.27 -5.08)
+					(xy -5.08 -7.62) (xy -5.08 7.62)
 				)
 				(stroke
 					(width 0)
@@ -147,7 +135,7 @@
 			)
 			(polyline
 				(pts
-					(xy -0.3768 4.7115) (xy 2.1687 2.1715)
+					(xy -2.54 -10.16) (xy 2.54 -10.16)
 				)
 				(stroke
 					(width 0)
@@ -159,7 +147,19 @@
 			)
 			(polyline
 				(pts
-					(xy 2.54 -3.81) (xy 2.54 1.27)
+					(xy 4.3374 4.343) (xy -0.7536 9.423)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 -7.62) (xy 5.08 2.54)
 				)
 				(stroke
 					(width 0)
@@ -170,9 +170,9 @@
 				)
 			)
 			(arc
-				(start 1.27 -5.08)
-				(mid 2.168 -4.708)
-				(end 2.54 -3.81)
+				(start 2.54 -10.16)
+				(mid 4.3361 -9.4161)
+				(end 5.08 -7.62)
 				(stroke
 					(width 0)
 					(type default)
@@ -182,8 +182,8 @@
 				)
 			)
 			(circle
-				(center 1.27 -3.81)
-				(radius 0.889)
+				(center 2.54 -7.62)
+				(radius 1.778)
 				(stroke
 					(width 0)
 					(type default)
@@ -193,8 +193,8 @@
 				)
 			)
 			(circle
-				(center 1.27 -1.27)
-				(radius 0.889)
+				(center 2.54 -2.54)
+				(radius 1.778)
 				(stroke
 					(width 0)
 					(type default)
@@ -204,8 +204,8 @@
 				)
 			)
 			(circle
-				(center 1.27 1.27)
-				(radius 0.889)
+				(center 2.54 2.54)
+				(radius 1.778)
 				(stroke
 					(width 0)
 					(type default)
@@ -215,9 +215,9 @@
 				)
 			)
 			(arc
-				(start 2.54 1.27)
-				(mid 2.4442 1.7578)
-				(end 2.1687 2.1715)
+				(start 5.08 2.54)
+				(mid 4.8884 3.5156)
+				(end 4.3374 4.343)
 				(stroke
 					(width 0)
 					(type default)
