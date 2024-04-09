@@ -25,8 +25,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "NES_Controller_Port:NES_Controller_Port"
+			(at 0 -11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
