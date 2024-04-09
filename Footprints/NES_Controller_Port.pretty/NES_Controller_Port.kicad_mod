@@ -211,4 +211,15 @@
 		(remove_unused_layers no)
 		(uuid "d836a990-c325-4d98-9c0f-1aed8bac2003")
 	)
+	(model "${NES_CONTROLLER_PORT}/3DModels/NES_Controller_Port.wrl"
+		(offset
+			(xyz -6.5 -5.75 -3)
+		)
+		(scale
+			(xyz 1.06 1.06 1.06)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
 )
