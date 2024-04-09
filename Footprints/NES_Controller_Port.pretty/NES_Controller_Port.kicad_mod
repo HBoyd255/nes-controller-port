@@ -16,7 +16,7 @@
 		)
 	)
 	(property "Value" "NES_Controller_Port"
-		(at 0 -13.5 0)
+		(at 0 -14 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "926a586e-b5b6-4e38-ac04-0078d1aaf9e7")
@@ -40,16 +40,17 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
-		(at 0 0 0)
+	(property "Datasheet" "https://github.com/HBoyd255/nes-controller-port"
+		(at 0 -11 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
 		(uuid "4c223340-b230-477b-ad7d-8559adcacb58")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.6 0.6)
+				(thickness 0.12)
+				(bold yes)
 			)
 		)
 	)
@@ -144,7 +145,7 @@
 		(uuid "c82656fc-26aa-479e-ad86-66c8ebba858f")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 -11 0)
+		(at 0 -12.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "44c7d659-9b0b-4577-affc-af055f6b549e")

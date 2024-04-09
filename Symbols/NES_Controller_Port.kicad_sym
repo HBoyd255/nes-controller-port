@@ -34,8 +34,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 0)
+		(property "Datasheet" "https://github.com/HBoyd255/nes-controller-port"
+			(at 5.842 -13.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
