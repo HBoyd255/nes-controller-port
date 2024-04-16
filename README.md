@@ -12,8 +12,8 @@ library search path. This can be done by going to
 `Preferences -> Configure Paths` and adding the path with the name
 `NES_Controller_Port`.
 
-Then you just need to add `NES_Controller_Port.kicad_sym` to your Symbol
-Libraries table with `Preferences -> Manage Symbol Libraries`.
+Then you just need to add `NES_Controller_Port.kicad_sym` to your symbol
+libraries table with `Preferences -> Manage Symbol Libraries`.
 
 ## Dimensions
 
