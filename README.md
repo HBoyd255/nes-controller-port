@@ -22,8 +22,6 @@ The dimensions are based on this image, that I found on
 
 ![NES Port Technical Drawing](https://www.raphnet-tech.com/products/nes_controller_connector/nes_connector_ra_dims.png)
 
-https://www.raspberryfield.life/2018/09/01/nespi-project-part-4-the-nes-controller-protocol/
-
 ## Pinout
 
 This diagram from
